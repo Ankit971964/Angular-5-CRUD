@@ -1,0 +1,27 @@
+/*!
+ * Start Bootstrap - SB Admin 2 v3.3.7+1 (http://startbootstrap.com/template-overviews/sb-admin-2)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+ body {
+    background-color:rgb(212, 205, 196);
+  }
+  .filter-width {
+    width: 150px !important;
+  }
+  .ddd .ng-invalid.ng-touched .selected-list .c-btn{
+    border: 1px solid #FF0000;
+    BORDER-RADIUS: 4PX;
+}
+form.emp-form{
+    background-color: #dbdbdb;
+    border-radius: 4px;
+    padding: 10px;
+}
+div.validation-error{
+    color: red;
+    text-align: center;
+}
+button:hover,a.btn:hover{
+    cursor: pointer;
+}
